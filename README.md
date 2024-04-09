@@ -14,5 +14,5 @@
 ### Sobre mim
 
 um apaixonado por tecnologia e suas capacidades de auxiliar a vida das pessoas, que ama aprender sobre ela e melhorar constantemente.
-gosto muito de aprender constantemente sobre novidades tecnologicas.
+gosto muito de aprender constantemente sobre novidades tecnológicas.
 leitor nas horas vagas e em momentos de lazer jogador de RPG com os amigos. esse sou eu 
