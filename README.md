@@ -10,3 +10,9 @@
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+### Sobre mim
+
+um apaixonado por tecnologia e suas capacidades de auxiliar a vida das pessoas, que ama aprender sobre ela e melhorar constantemente.
+gosto muito de aprender constantemente sobre novidades tecnologicas.
+leitor nas horas vagas e em momentos de lazer jogador de RPG com os amigos. esse sou eu 
